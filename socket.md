@@ -66,7 +66,3 @@ The listen function is called only by TCP server and it perform two actions.
 
 - 发送方每次写入数据 < 套接字（Socket）缓冲区大小；
 - 接收方读取套接字（Socket）缓冲区数据不够及时。
-
-
-
-
